@@ -11,7 +11,7 @@ const workExperiences = [
   {
     company: "National Telecommunication Institute (NTI)",
     role: "MEAN Stack Web Development Trainee",
-    period: "August 11 – September 5, 2024",
+    period: "August – September, 2024",
     description:
       "Completed 120-hour MEAN Stack training covering full-stack development, freelancing, project management, and personal branding.",
   },

@@ -2,7 +2,7 @@
 
 A sleek, modern, and responsive portfolio template built with Vite, React, TypeScript, and Tailwind CSS. Designed to be easily customizable, it features smooth animations with Framer Motion and a clean structure to showcase your projects and skills.
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://ammar-elmihy.netlify.app/)
 
 ## Table of Contents
 
